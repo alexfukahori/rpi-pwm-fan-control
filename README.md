@@ -8,10 +8,10 @@ Corporation September 2005, revision 1.3), to read the FAN speed using the tacho
 - Use PWM pin to control the FAN
 - Use Interruption pin to read FAN speed
 - Connect all the FAN 4pin directly to the Raspberry Pi pins (it is possible, because I'm using internal pull-up resistor)
-- CPU usage stay between 1% and 2%, because it need to process the tachometer interruption routine
+- CPU usage stay between 1% and 2%, because it needs to process the tachometer interruption routine
 
 ## Dependencies
-* [Python 3](https://www.python.org/download/releases/3.0/) - The scrpit interpreter
+* [Python 3](https://www.python.org/download/releases/3.0/) - The script interpreter
 * [WiringPi-Python](https://github.com/WiringPi/WiringPi-Python) - Control Hardware features of Rasbberry Pi
 
 ## Documentations
