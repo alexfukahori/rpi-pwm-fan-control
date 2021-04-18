@@ -27,4 +27,4 @@ $ python3 ./rpi-pwmfan.py
 ```
 
 ## TODO List
-* Add PID controller to control the FAN Speed, avoiding FAN to start or stop suddenly.
+* Accept suggestion! ;-)
